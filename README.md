@@ -1,10 +1,10 @@
-# receipt_application
+# Expense Snap
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application that takes Receipt images and extracts all relevant information and displays it in an excel format. Note that this is the front end, the actual processing happens in the backend structure. 
 
 A few resources to get you started if this is your first Flutter project:
 

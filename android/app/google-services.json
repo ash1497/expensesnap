@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "424341644593",
+    "project_id": "expensesnap-5f47c",
+    "storage_bucket": "expensesnap-5f47c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424341644593:android:847caa7bbca617f44cbc10",
+        "android_client_info": {
+          "package_name": "com.example.receipt_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424341644593-i8f848d5brr70rjblpats6avn852jejb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6M6IDK_p7CtOYBJ0Z6jxjNIDBlUYt80w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424341644593-i8f848d5brr70rjblpats6avn852jejb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424341644593-nlrqehunda4q0ru577kbj8i9ahk8b7fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.receiptApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
